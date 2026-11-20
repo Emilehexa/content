@@ -48,4 +48,6 @@ The last two are Emile's authority KPIs (see `profile/goals.md`). Leave them emp
 
 ## Imported posts
 
-Posts dated before 2026-11-20 were imported from public data on 2026-11-20 (X API for X, a public scrape of LinkedIn). Their metrics are a snapshot at import time, not at a fixed 7-day delay, so very recent posts are understated. Fields the public data does not expose are left empty. X replies were not imported as post files; they are summarised in `results/2026-11-first-analysis.md`.
+Posts dated before 2026-11-20 were imported from public data on 2026-11-20 (X API for X, public LinkedIn post pages for LinkedIn). Their metrics are a snapshot at import time, not at a fixed 7-day delay, so very recent posts are understated. Fields the public data does not expose are left empty. X replies were not imported as post files; they are summarised in `results/2026-11-first-analysis.md`. When Emile replied to his own post to continue a thread, the reply is quoted in the parent post's notes.
+
+The import covers every original X post the API returned (back to 2022) and every LinkedIn post that web search could find (back to April 2022). Older LinkedIn posts are in French, and their public pages flattened line breaks and often hide reaction counts. Posts from before Hexa (the Pada1 years) are classified `pillar: off-pillar`.

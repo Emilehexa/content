@@ -2,6 +2,7 @@
 date: YYYY-MM-DD
 platform:
 format:
+funnel_stage: # tofu | mofu | bofu | none
 pillar:
 hook_type:
 goal:

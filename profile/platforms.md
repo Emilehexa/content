@@ -4,22 +4,27 @@ Where Emile posts and how each platform is used. Use the platform label in file 
 
 ## Overview
 
-| Label | Platform | Role (main / secondary / testing) | Profile URL | Cadence |
+| Label | Platform | Role | Profile URL | Cadence |
 | --- | --- | --- | --- | --- |
-| | | | | |
+| `linkedin` | LinkedIn | TBD | https://www.linkedin.com/in/emile-geeraert/ | TBD |
+| `x` | X | TBD | https://x.com/GeeraertE | TBD |
 
-## Per platform
+## LinkedIn
 
-Copy this block for each platform.
+- **Why here:** TBD
+- **Formats that fit:** TBD
+- **Best times to post:** TBD (fill in from results)
+- **Constraints:** TBD
+- **Current baseline:** see `results/2026-11-first-analysis.md`. Public data shows reactions and comments only, no impressions.
 
-### Platform name
+## X
 
-- **Why here:** > which goal and audience this platform serves
-- **Formats that fit:** > text, carousel, video, thread, ...
-- **Best times to post:** > fill in from results
-- **Constraints:** > length limits, link handling, hashtags, ...
-- **Current baseline:** > typical impressions and engagement per post
+- **Why here:** TBD
+- **Formats that fit:** TBD
+- **Best times to post:** TBD (fill in from results)
+- **Constraints:** TBD
+- **Current baseline:** see `results/2026-11-first-analysis.md`.
 
 ## Cross-posting rules
 
-> When to reuse a post across platforms, and how to adapt it.
+TBD

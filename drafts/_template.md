@@ -1,6 +1,7 @@
 ---
 platform:
 format:
+funnel_stage: # tofu | mofu | bofu
 pillar:
 hook_type:
 goal:
@@ -13,7 +14,7 @@ planned_date:
 ## Purpose
 
 - **Goal served:** > which goal from `profile/goals.md`, and how
-- **Pillar:** > which pillar from `profile/editorial-line.md`
+- **Funnel stage and pillar:** > which stage (tofu, mofu, bofu) and pillar from `profile/editorial-line.md`
 - **Reader:** > who exactly this is for (see `profile/audience.md`)
 - **One takeaway:** > the single thing the reader should remember
 

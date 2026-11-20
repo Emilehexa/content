@@ -23,9 +23,24 @@ The same idea posted on two platforms gets two files.
 
 Use the labels defined in `profile/` and `playbook/` so posts can be compared:
 
-- `pillar`: from `profile/editorial-line.md`
+- `funnel_stage` and `pillar`: from `profile/editorial-line.md`
 - `goal`: from `profile/goals.md`
 - `format`: from `playbook/formats.md`
 - `hook_type`: from `playbook/hooks.md`
 
 Fill in `metrics` once, at a fixed delay after publishing (for example 7 days). Leave a metric empty if the platform does not report it.
+
+## Metric mapping per platform
+
+| Field | X | LinkedIn |
+| --- | --- | --- |
+| `impressions` | Views | Impressions (only visible to the author) |
+| `likes` | Likes | Reactions |
+| `comments` | Replies | Comments |
+| `shares` | Reposts + quotes | Reposts |
+| `saves` | Bookmarks | Saves (only visible to the author) |
+| `clicks` | Link clicks (only visible to the author) | Link clicks (only visible to the author) |
+
+## Imported posts
+
+Posts dated before 2026-11-20 were imported from public data on 2026-11-20 (X API for X, a public scrape of LinkedIn). Their metrics are a snapshot at import time, not at a fixed 7-day delay, so very recent posts are understated. Fields the public data does not expose are left empty. X replies were not imported as post files; they are summarised in `results/2026-11-first-analysis.md`.

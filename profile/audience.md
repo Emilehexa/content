@@ -1,31 +1,32 @@
 # Audience
 
-Who the posts are for. Write for one specific reader, not everyone.
+Who the posts are for.
 
-## Primary reader
+## Primary readers
 
-> Describe one person: role, seniority, industry, context.
+1. **Founders based in San Francisco.**
+2. **European tech founders who aspire to build in the US.**
 
 ## What they want
 
-> Their goals and ambitions, in their own words.
+TBD
 
 ## What keeps them stuck
 
-> Pains, frustrations, recurring questions.
+TBD
 
 ## What they already believe
 
-> Common opinions or assumptions you can confirm or challenge.
+TBD
 
 ## Where they spend time
 
-> Platforms, communities, newsletters, events.
+LinkedIn and X are where Emile reaches them (see `profile/platforms.md`). Other places: TBD.
 
 ## Secondary audiences
 
-> Other groups that matter (peers, recruiters, partners, ...) and what they should take away.
+TBD
 
 ## Who this is not for
 
-> People you are fine not reaching.
+TBD

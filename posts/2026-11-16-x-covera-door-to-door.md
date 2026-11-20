@@ -15,6 +15,8 @@ metrics:
   saves: 0
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # I've seen this team going door to door to all the brokers in San Francisco - this might be the first time you see them, not the last!!

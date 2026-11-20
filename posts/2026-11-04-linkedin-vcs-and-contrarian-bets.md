@@ -15,6 +15,8 @@ metrics:
   saves:
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # You need to be contrarian to back non-obvious companies.

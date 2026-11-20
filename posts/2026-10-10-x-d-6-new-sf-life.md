@@ -15,6 +15,8 @@ metrics:
   saves: 0
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # D-6 of the new SF life.

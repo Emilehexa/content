@@ -15,6 +15,8 @@ metrics:
   saves:
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # Early 2026: Pelagon starts inside the Hexa studio.

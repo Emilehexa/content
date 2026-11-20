@@ -15,6 +15,8 @@ metrics:
   saves: 0
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # Lowercase outreach stopped feeling human the moment ten other people sent the same message on the same day.

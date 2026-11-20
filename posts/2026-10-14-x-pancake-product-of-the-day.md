@@ -15,6 +15,8 @@ metrics:
   saves: 1
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # @getpancake_ai product of the day or nothing

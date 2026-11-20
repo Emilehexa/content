@@ -15,6 +15,8 @@ metrics:
   saves: 0
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # It’s crazy how I switched all my routines from Claude to Grok Bot

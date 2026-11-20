@@ -15,6 +15,8 @@ metrics:
   saves:
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # My best restaurant in SF doesn't take online orders

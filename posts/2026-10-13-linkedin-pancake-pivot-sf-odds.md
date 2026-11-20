@@ -15,6 +15,8 @@ metrics:
   saves:
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # This pivot is exact story of why founders in SF have way more odds to build huge company than anywhere else in the world

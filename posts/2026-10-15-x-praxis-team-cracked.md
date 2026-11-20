@@ -15,6 +15,8 @@ metrics:
   saves: 1
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # I’ve worked during 1 month under the same roof with @KhraminaDianka and was best man at the same wedding with Max!

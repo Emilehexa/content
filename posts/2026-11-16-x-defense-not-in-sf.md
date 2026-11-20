@@ -15,6 +15,8 @@ metrics:
   saves: 0
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # At YC demo day, the companies going from 0 to hundreds of millions in LOI were in Defense tech.

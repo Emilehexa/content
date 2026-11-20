@@ -15,6 +15,8 @@ metrics:
   saves:
   clicks:
   followers_gained:
+  inbound_dms:
+  hacker_house_applications:
 ---
 
 # There’s one sector I would never build from San Francisco.

@@ -4,12 +4,24 @@
 
 - Posts published:
 - Platforms:
-- Followers gained (total):
 - Progress toward goals (see `profile/goals.md`):
+
+## KPIs
+
+Monthly totals for the authority signals in `profile/goals.md`. "Credited to posts" is the share traced back to a specific post (`inbound_dms` and `hacker_house_applications` in post files).
+
+| KPI | This month | Last month | Target | Credited to posts | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Inbound founder DMs | | | | | |
+| Hacker house applications | | | | | |
+| Followers gained, LinkedIn | | | | | |
+| Followers gained, X | | | | | |
+| Total followers, LinkedIn | | | | n/a | |
+| Total followers, X | | | | n/a | |
 
 ## Top posts
 
-| Post | Platform | Pillar | Hook type | Key metric | Why it worked |
+| Post | Platform | Pillar | Hook type | Key metric (incl. DMs, applications) | Why it worked |
 | --- | --- | --- | --- | --- | --- |
 | | | | | | |
 

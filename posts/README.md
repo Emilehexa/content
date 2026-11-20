@@ -40,6 +40,11 @@ Fill in `metrics` once, at a fixed delay after publishing (for example 7 days). 
 | `shares` | Reposts + quotes | Reposts |
 | `saves` | Bookmarks | Saves (only visible to the author) |
 | `clicks` | Link clicks (only visible to the author) | Link clicks (only visible to the author) |
+| `followers_gained` | Net new followers credited to the post (author analytics) | Net new followers credited to the post (author analytics) |
+| `inbound_dms` | Founder DMs that mention or follow the post (counted by hand) | Same |
+| `hacker_house_applications` | Applications credited to the post (tracked link or "how did you hear about us?") | Same |
+
+The last two are Emile's authority KPIs (see `profile/goals.md`). Leave them empty when nothing can be credited to the post.
 
 ## Imported posts
 

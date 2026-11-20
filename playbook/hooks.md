@@ -36,3 +36,22 @@ Results from `results/2026-11-first-analysis.md` (small sample).
 
 - `teaser-curiosity` on a middle-of-funnel topic (for example an out-of-home campaign teardown).
 - `proof-number` on LinkedIn.
+
+## Hook patterns from the tone references
+
+Reusable patterns taken from Guillaume Roux-Romestaing and Harry Stebbings (see "Tone references" in `profile/editorial-line.md`). Their engagement wasn't collected, so these are untested for Emile. Give a pattern its own label in the table above once Emile has used it.
+
+| Pattern | Source | Template | Example for Emile (to adapt) | Maps to label |
+| --- | --- | --- | --- | --- |
+| Result in time | Harry | "[Time] after [event], [striking result]." | "One week after opening applications, 250 founders had applied." | `proof-number` |
+| Percentage claim | Harry | "[X]% of [group] [do/are something]." | "80% of our hacker house founders got into YC." | `proof-number` |
+| Uncomfortable truths | Harry | "There are [N] uncomfortable truths about [topic] that nobody admits." | "There are 3 uncomfortable truths about moving to SF as a European founder." | `contrarian` |
+| The story is wild | Harry | "The story of [company] is wild!" | "The story of Pelagon is wild!" | `teaser-curiosity` |
+| I was wrong | Harry | "I was wrong about [belief]." | "I was wrong about outbound in the US." | `personal-anecdote` |
+| How X really works | Guillaume | "How [insider thing] really works" | "How getting into a hacker house really works" | `teaser-curiosity` |
+| POV series | Guillaume | "POV: you just [situation] (part [N])." | "POV: you just landed in SF to sell to US customers (part 1)." | `personal-anecdote` |
+| How to in [year] | Guillaume | "How to [goal] in [year]" | "How to do outbound in 2026" | `bold-claim` |
+| Provocation | Guillaume | "If you're not [X], you're dead." | "If you're not product-led, you won't win in the US." | `contrarian` |
+| Milestone | Guillaume | "[Time] and [one thing] later - [result]." | "2 seasons and 1 house later - [result]." | `proof-number` |
+| I've been wondering why | Guillaume | "I've been wondering why [observation]." | "I've been wondering why SF startups still buy billboards." | `personal-observation` |
+| Money or value offer | Guillaume | "I want to [give reader something concrete]." | "I want to give 10 European founders a free month in SF." | `teaser-curiosity` |

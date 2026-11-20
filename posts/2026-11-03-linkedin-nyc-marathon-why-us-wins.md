@@ -2,8 +2,8 @@
 date: 2026-11-03
 platform: linkedin
 format: text
-funnel_stage: tofu
-pillar: us-entrepreneurship
+pillar: tofu-us-entrepreneurship
+topic: general
 hook_type: bold-claim
 goal: audience
 url: https://www.linkedin.com/posts/emile-geeraert_nyc-marathon-is-exactly-why-the-us-are-winning-activity-7523396487247147008-QRN6

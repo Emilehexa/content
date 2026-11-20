@@ -2,8 +2,8 @@
 date: 2026-11-04
 platform: linkedin
 format: text-image
-funnel_stage: tofu
-pillar: us-entrepreneurship
+pillar: tofu-us-entrepreneurship
+topic: general
 hook_type: contrarian
 goal: audience
 url: https://www.linkedin.com/posts/emile-geeraert_you-need-to-be-contrarian-to-back-non-obvious-activity-7523715999880122368-DkOH

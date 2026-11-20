@@ -27,9 +27,9 @@
 
 -
 
-## By pillar
+## By pillar and topic
 
-| Pillar | Posts | Avg. impressions | Avg. engagement | Comment |
+| Pillar / topic | Posts | Avg. impressions | Avg. engagement | Comment |
 | --- | --- | --- | --- | --- |
 | | | | | |
 

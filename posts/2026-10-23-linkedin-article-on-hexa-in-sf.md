@@ -2,8 +2,8 @@
 date: 2026-10-23
 platform: linkedin
 format: text-image
-funnel_stage: bofu
-pillar: hexa-news
+pillar: bofu-hexa-sf
+topic: hexa-news
 hook_type: announcement
 goal: authority
 url: https://www.linkedin.com/posts/emile-geeraert_an-article-on-hexa-in-sf-jason-came-the-activity-7519283938465325056-lXql

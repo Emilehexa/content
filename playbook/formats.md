@@ -6,7 +6,7 @@ Post formats and when to use them. Each format has a label used in the `format` 
 
 Results from `results/2026-11-first-analysis.md` (small sample).
 
-| Label | Description | Platforms | Best for (goal / pillar) | Results so far |
+| Label | Description | Platforms | Best for (goal / topic) | Results so far |
 | --- | --- | --- | --- | --- |
 | `text` | Text only | LinkedIn, X | TBD | Weakest on both (LinkedIn 31 avg reactions; X 68 avg impressions) |
 | `text-image` | Text with an image | LinkedIn | Bottom of funnel so far | 64 avg reactions, 7.6 comments (n=5) |

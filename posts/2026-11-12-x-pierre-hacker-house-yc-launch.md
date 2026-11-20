@@ -2,8 +2,8 @@
 date: 2026-11-12
 platform: x
 format: quote-post
-funnel_stage: bofu
-pillar: hacker-house
+pillar: bofu-hexa-sf
+topic: hacker-house
 hook_type: personal-anecdote
 goal: authority
 url: https://x.com/GeeraertE/status/2120919051673448773

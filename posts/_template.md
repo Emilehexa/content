@@ -2,8 +2,8 @@
 date: YYYY-MM-DD
 platform:
 format:
-funnel_stage: # tofu | mofu | bofu | none
-pillar:
+pillar: # tofu-us-entrepreneurship | mofu-us-gtm | bofu-hexa-sf | off-pillar
+topic: # sub-topic of the pillar, see profile/editorial-line.md
 hook_type:
 goal:
 url:

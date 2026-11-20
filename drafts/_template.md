@@ -1,8 +1,8 @@
 ---
 platform:
 format:
-funnel_stage: # tofu | mofu | bofu
-pillar:
+pillar: # tofu-us-entrepreneurship | mofu-us-gtm | bofu-hexa-sf
+topic: # sub-topic of the pillar, see profile/editorial-line.md
 hook_type:
 goal:
 status: idea # idea | writing | ready
@@ -14,7 +14,7 @@ planned_date:
 ## Purpose
 
 - **Goal served:** > which goal from `profile/goals.md`, and how
-- **Funnel stage and pillar:** > which stage (tofu, mofu, bofu) and pillar from `profile/editorial-line.md`
+- **Pillar and topic:** > which funnel pillar and sub-topic from `profile/editorial-line.md`
 - **Reader:** > who exactly this is for (see `profile/audience.md`)
 - **One takeaway:** > the single thing the reader should remember
 

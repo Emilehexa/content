@@ -2,8 +2,8 @@
 date: 2026-11-11
 platform: linkedin
 format: video
-funnel_stage: none
 pillar: off-pillar
+topic: other
 hook_type: personal-anecdote
 goal: audience
 url: https://www.linkedin.com/posts/emile-geeraert_my-best-restaurant-in-sf-doesnt-take-online-activity-7526283509523587072-WUmq

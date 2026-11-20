@@ -2,8 +2,8 @@
 date: 2026-10-26
 platform: linkedin
 format: text-image
-funnel_stage: bofu
-pillar: hexa-events
+pillar: bofu-hexa-sf
+topic: hexa-events
 hook_type: personal-observation
 goal: authority
 url: https://www.linkedin.com/posts/emile-geeraert_most-of-my-interactions-in-sf-are-with-european-activity-7520517255151964180-dZ71

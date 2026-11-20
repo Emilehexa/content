@@ -2,8 +2,8 @@
 date: 2026-11-02
 platform: x
 format: text
-funnel_stage: none
 pillar: off-pillar
+topic: other
 hook_type: personal-anecdote
 goal: audience
 url: https://x.com/GeeraertE/status/2117368504957755792

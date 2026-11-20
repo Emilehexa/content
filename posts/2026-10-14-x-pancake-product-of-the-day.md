@@ -2,8 +2,8 @@
 date: 2026-10-14
 platform: x
 format: video
-funnel_stage: tofu
-pillar: sf-founders
+pillar: tofu-us-entrepreneurship
+topic: sf-founders
 hook_type: hype-shoutout
 goal: audience
 url: https://x.com/GeeraertE/status/2110495037427753026

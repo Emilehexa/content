@@ -2,8 +2,8 @@
 date: 2026-10-09
 platform: x
 format: quote-post
-funnel_stage: tofu
-pillar: european-founders
+pillar: tofu-us-entrepreneurship
+topic: european-founders
 hook_type: one-liner
 goal: audience
 url: https://x.com/GeeraertE/status/2108461546301256188

@@ -33,7 +33,7 @@ profile/  ──►  ideas/backlog.md  ──►  drafts/  ──►  posts/  �
 ## Add a post
 
 1. Copy `posts/_template.md` to `posts/YYYY-MM-DD-platform-slug.md` (for example `posts/2026-11-20-linkedin-why-i-quit-agencies.md`). See `posts/README.md` for naming rules.
-2. Fill in the frontmatter: date, platform, format, pillar, hook type, goal, url.
+2. Fill in the frontmatter: date, platform, format, pillar, topic, hook type, goal, url.
 3. Paste the final text of the post in the body.
 4. Delete the draft from `drafts/` (or link to the post from it).
 

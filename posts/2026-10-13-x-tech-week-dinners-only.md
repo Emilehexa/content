@@ -2,8 +2,8 @@
 date: 2026-10-13
 platform: x
 format: text
-funnel_stage: tofu
-pillar: us-entrepreneurship
+pillar: tofu-us-entrepreneurship
+topic: general
 hook_type: contrarian
 goal: audience
 url: https://x.com/GeeraertE/status/2110060758851842365

@@ -2,8 +2,8 @@
 date: 2026-11-16
 platform: x
 format: quote-post
-funnel_stage: bofu
-pillar: hexa-events
+pillar: bofu-hexa-sf
+topic: hexa-events
 hook_type: contrarian
 goal: authority
 url: https://x.com/GeeraertE/status/2122367318084976890

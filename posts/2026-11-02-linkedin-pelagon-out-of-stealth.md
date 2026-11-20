@@ -2,8 +2,8 @@
 date: 2026-11-02
 platform: linkedin
 format: text
-funnel_stage: bofu
-pillar: hexa-news
+pillar: bofu-hexa-sf
+topic: hexa-news
 hook_type: story-timeline
 goal: authority
 url: https://www.linkedin.com/posts/emile-geeraert_early-2026-pelagon-starts-inside-the-hexa-activity-7523058880395018240-zoJl

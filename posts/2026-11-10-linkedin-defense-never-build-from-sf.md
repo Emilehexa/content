@@ -2,8 +2,8 @@
 date: 2026-11-10
 platform: linkedin
 format: text-image
-funnel_stage: bofu
-pillar: hexa-events
+pillar: bofu-hexa-sf
+topic: hexa-events
 hook_type: contrarian
 goal: authority
 url: https://www.linkedin.com/posts/emile-geeraert_theres-one-sector-i-would-never-build-from-activity-7525920562368593920-xYux

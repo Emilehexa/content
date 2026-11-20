@@ -2,8 +2,8 @@
 date: 2026-10-20
 platform: linkedin
 format: text-image
-funnel_stage: bofu
-pillar: hacker-house
+pillar: bofu-hexa-sf
+topic: hacker-house
 hook_type: teaser-curiosity
 goal: authority
 url: https://www.linkedin.com/posts/emile-geeraert_this-was-meant-to-be-a-one-time-thing-activity-7518193077757464577-BHsK

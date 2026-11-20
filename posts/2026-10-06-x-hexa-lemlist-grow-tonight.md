@@ -2,8 +2,8 @@
 date: 2026-10-06
 platform: x
 format: video
-funnel_stage: bofu
-pillar: hexa-events
+pillar: bofu-hexa-sf
+topic: hexa-events
 hook_type: announcement
 goal: authority
 url: https://x.com/GeeraertE/status/2107613061452337304

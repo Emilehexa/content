@@ -2,8 +2,8 @@
 date: 2026-10-13
 platform: linkedin
 format: text
-funnel_stage: tofu
-pillar: sf-founders
+pillar: tofu-us-entrepreneurship
+topic: sf-founders
 hook_type: bold-claim
 goal: audience
 url: https://www.linkedin.com/posts/emile-geeraert_this-pivot-is-exact-story-of-why-founders-activity-7515819445651406848-4NbC

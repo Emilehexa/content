@@ -23,7 +23,7 @@ The same idea posted on two platforms gets two files.
 
 Use the labels defined in `profile/` and `playbook/` so posts can be compared:
 
-- `funnel_stage` and `pillar`: from `profile/editorial-line.md`
+- `pillar` (funnel stage) and `topic` (sub-topic): from `profile/editorial-line.md`
 - `goal`: from `profile/goals.md`
 - `format`: from `playbook/formats.md`
 - `hook_type`: from `playbook/hooks.md`

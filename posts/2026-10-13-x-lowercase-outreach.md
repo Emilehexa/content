@@ -2,8 +2,8 @@
 date: 2026-10-13
 platform: x
 format: text
-funnel_stage: mofu
-pillar: outbound
+pillar: mofu-us-gtm
+topic: outbound
 hook_type: contrarian
 goal: authority
 url: https://x.com/GeeraertE/status/2110091696847614315

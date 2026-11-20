@@ -1,6 +1,6 @@
 # First analysis: imported posts, Oct 6 to Nov 19, 2026
 
-Baseline analysis of the posts imported on 2026-11-20. It uses the classifications in each `posts/` file (funnel stage, pillar, format, hook type).
+Baseline analysis of the posts imported on 2026-11-20. It uses the classifications in each `posts/` file (pillar, topic, format, hook type).
 
 ## Data and caveats
 
@@ -12,7 +12,7 @@ Baseline analysis of the posts imported on 2026-11-20. It uses the classificatio
 - Small sample: treat everything below as hunches, not rules.
 - Metrics are a snapshot from 2026-11-20, so the last few days of posts are understated.
 - LinkedIn impressions, shares, and saves are not public, so LinkedIn is compared on reactions and comments only.
-- Funnel stage, pillar, format, and hook type were classified from the post text; two X posts could not be classified (`pillar: unclear`).
+- Pillar, topic, format, and hook type were classified from the post text; two X posts could not be classified (`topic: unclear`).
 - X engagement = likes + replies + reposts + quotes + bookmarks. Engagement rate = engagement / impressions.
 
 ## Overall baseline
@@ -21,28 +21,28 @@ Baseline analysis of the posts imported on 2026-11-20. It uses the classificatio
 - **X:** 139 impressions and 4.5 engagements per original post on average. The 22 replies averaged 80 impressions.
 - LinkedIn is where the audience is: the account is about 80 times bigger than on X and one LinkedIn post gets about as many reactions as an average X post gets impressions.
 
-## By funnel stage
+## By pillar (funnel stage)
 
-| Funnel stage | LinkedIn posts | LinkedIn avg reactions / comments | X posts | X avg impressions | X engagement rate |
+| Pillar | LinkedIn posts | LinkedIn avg reactions / comments | X posts | X avg impressions | X engagement rate |
 | --- | --- | --- | --- | --- | --- |
-| `tofu` | 3 | 28 / 2.7 | 10 | 188 | 3.4% |
-| `mofu` | 0 | n/a | 1 | 77 | 2.6% |
-| `bofu` | 5 | 66 / 7.6 (39 / 2.8 without the hacker house post) | 8 | 133 | 3.3% |
-| `none` (off-pillar or unclear) | 1 | 72 / 23 | 9 | 98 | 2.8% |
+| `tofu-us-entrepreneurship` | 3 | 28 / 2.7 | 10 | 188 | 3.4% |
+| `mofu-us-gtm` | 0 | n/a | 1 | 77 | 2.6% |
+| `bofu-hexa-sf` | 5 | 66 / 7.6 (39 / 2.8 without the hacker house post) | 8 | 133 | 3.3% |
+| `off-pillar` (topics `other` and `unclear`) | 1 | 72 / 23 | 9 | 98 | 2.8% |
 
-## By pillar
+## By topic
 
-| Pillar | Posts (LinkedIn + X) | What happened |
+| Topic | Posts (LinkedIn + X) | What happened |
 | --- | --- | --- |
-| `hacker-house` | 1 + 4 | Best pillar overall. LinkedIn "season two" post: 171 reactions, 27 comments (3x the next on-pillar post). On X, 192 avg impressions and the highest engagement rates. |
+| `hacker-house` | 1 + 4 | Best topic overall. LinkedIn "season two" post: 171 reactions, 27 comments (3x the next on-pillar post). On X, 192 avg impressions and the highest engagement rates. |
 | `sf-founders` | 1 + 7 | Drives X reach: 236 avg impressions, top X post (Pancake shoutout, 436 impressions). LinkedIn Pancake pivot story: 58 reactions. |
 | `hexa-news` | 2 + 0 | Solid on LinkedIn (press article 54, Pelagon 20 reactions). |
 | `hexa-events` | 2 + 4 | Fine on LinkedIn (48 and 35 reactions), weak on X (74 avg impressions). |
-| `us-entrepreneurship` | 2 + 2 | Weakest pillar: 13 avg reactions on LinkedIn, 66 avg impressions and 0.8% engagement on X. The topics (VCs, NYC marathon, founding engineers, tech week) were general rather than founder-specific. |
+| `general` (TOFU) | 2 + 2 | Weakest topic: 13 avg reactions on LinkedIn, 66 avg impressions and 0.8% engagement on X. The topics (VCs, NYC marathon, founding engineers, tech week) were general rather than founder-specific. |
 | `european-founders` | 0 + 1 | Barely covered (one X quote post, 95 impressions), although it is central to the audience. |
 | `outbound` | 0 + 1 | One X post (lowercase outreach, 77 impressions). |
-| `us-gtm`, `product-led`, `ooh-campaigns` | 0 | Never posted. |
-| `off-pillar` | 1 + 7 | The Grok bot restaurant video got 72 reactions and 23 comments on LinkedIn (most comments after the hacker house post), but off-pillar posts on X averaged only 84 impressions. |
+| `product-led`, `ooh-campaigns`, `general` (MOFU) | 0 | Never posted. |
+| `other` (off-pillar) | 1 + 7 | The Grok bot restaurant video got 72 reactions and 23 comments on LinkedIn (most comments after the hacker house post), but off-pillar posts on X averaged only 84 impressions. |
 
 ## By format
 
@@ -83,11 +83,11 @@ Text-only posts were the weakest format on both platforms. On X, quoting a found
 - **Off-pillar life posts on X** (plants, city videos, tool switches): low reach and no link to the goals.
 - **Event announcements on X** without context: 74 avg impressions.
 
-## Under-covered funnel stages and pillars
+## Under-covered pillars and topics
 
-- **Middle of funnel is almost empty:** 1 post out of 37, and none on LinkedIn. `product-led`, `ooh-campaigns`, and `us-gtm` have never been posted, although GTM is Emile's professional expertise and the main lever for the `authority` goal.
+- **Middle of funnel is almost empty:** 1 post out of 37, and none on LinkedIn. `product-led`, `ooh-campaigns`, and general US GTM have never been posted, although GTM is Emile's professional expertise and the main lever for the `authority` goal.
 - **`european-founders`** has one post, despite European founders being one of the two target audiences.
-- **Bottom of funnel dominates LinkedIn** (5 of 9 posts). It performs, but mostly thanks to one post; without it, LinkedIn bofu averages 39 reactions.
+- **Bottom of funnel dominates LinkedIn** (5 of 9 posts). It performs, but mostly thanks to one post; without it, LinkedIn BOFU averages 39 reactions.
 
 ## Learnings
 
